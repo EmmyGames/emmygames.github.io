@@ -522,7 +522,7 @@ transition: all 0.5s ease-in-out;
 }
 .box_contact span.email{background: url(../images/icon_email2.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_phone.png) no-repeat;}
-.box_contact span.skype{background: url(../images/icon_skype.png) no-repeat;}
+.box_contact span.discord{background: url(../images/icon_skype.png) no-repeat;}
 /*footer
  */
 #footer {
@@ -709,7 +709,7 @@ transition: all 0.5s ease-in-out;
 		background-image: url(../images/icon_phone@x2.png);
 		background-size:54px 54px;
 	}
-	.box_contact span.skype{
+	.box_contact span.discord{
 		background-image: url(../images/icon_skype@x2.png);
 		background-size:54px 51px;
 	}
