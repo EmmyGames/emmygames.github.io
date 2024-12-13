@@ -7,7 +7,6 @@
     <list default="true" id="c0b33a95-dfb5-4efc-b430-c6346b1168c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radianceLearnMore.html" beforeDir="false" afterPath="$PROJECT_DIR$/radianceLearnMore.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <workItem from="1636514237807" duration="6699000" />
       <workItem from="1639933109683" duration="13829000" />
       <workItem from="1643388154892" duration="9167000" />
-      <workItem from="1734111620780" duration="5063000" />
+      <workItem from="1734111620780" duration="5412000" />
     </task>
     <servers />
   </component>
