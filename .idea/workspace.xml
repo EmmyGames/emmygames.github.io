@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c0b33a95-dfb5-4efc-b430-c6346b1168c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/emmygames.github.io/FileContentIndex/0fe42169-d484-4064-9ebf-313ca65bf816.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/emmygames.github.io/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/emmygames.github.io/v17/.wsuo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/waLearnMore.html" beforeDir="false" afterPath="$PROJECT_DIR$/waLearnMore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radianceLearnMore.html" beforeDir="false" afterPath="$PROJECT_DIR$/radianceLearnMore.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <workItem from="1636514237807" duration="6699000" />
       <workItem from="1639933109683" duration="13829000" />
       <workItem from="1643388154892" duration="9167000" />
-      <workItem from="1734111620780" duration="3459000" />
+      <workItem from="1734111620780" duration="5063000" />
     </task>
     <servers />
   </component>
